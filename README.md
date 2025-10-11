@@ -26,3 +26,5 @@ That’s it! Open your browser at **[http://localhost:3000](http://localhost:300
 ## 💡 About
 
 Just a small exercise project for learning React tab components.
+To be continued...
+
